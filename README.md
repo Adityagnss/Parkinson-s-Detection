@@ -1,6 +1,6 @@
 # Parkinson's-Detection
 
-# Parkinson’s Disease Detection from Voice Recordings 🎙️🧠
+# Parkinson’s Disease Detection from Voice Recordings 
 
 A deep learning-based approach to detect early-stage Parkinson's Disease from voice recordings using a novel **ConvLSTM-Transformer** architecture. The model effectively captures short- and long-term speech features and outperforms traditional methods in accuracy and explainability.
 
